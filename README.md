@@ -110,7 +110,7 @@ _Agentic AI-powered task engine with physical output (ESC/POS integration)_
 
 ## 📫 Let’s Connect
 * 💼 [LinkedIn](https://www.linkedin.com/in/moussa-samer/)
-* 🌐 [Portfolio](http://static-webpage-attempt-1.s3-website-us-east-1.amazonaws.com)
+* 🌐 [Portfolio](https://samermoussa.com)
 * 📧 Email: <m.samermoussa@hotmail.com>
 
 ```bash
