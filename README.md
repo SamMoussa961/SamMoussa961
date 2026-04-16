@@ -1,110 +1,59 @@
-<!--
-## Hi there 👋
-**SamMoussa961/SamMoussa961** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Hi, I'm Samer Moussa
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 👨‍💻 Samer Moussa
+Computer Programming & Analysis grad from Durham College — GPA 4.55, Dean's List every semester.
 
-Full-Stack Developer | AWS Cloud | Systems & Mainframe Engineering
-
-Building reliable, production-ready systems. Not just apps.
+I work across the full stack: Python backends, TypeScript frontends, AWS deployments, and IBM Mainframe systems. I'm equally comfortable writing COBOL batch jobs and designing PostgreSQL schemas from scratch.
 
 ---
 
-## 🚀 What I Bring
+### Tech
 
-* 🎯 4.55 GPA Computer Programming & Analysis @ Durham College
-*	🧠 Strong foundation in both modern + enterprise systems
-*	⚙️ Experience in IT Operations, SLA-driven environments, and production support
-*	🔁 Think in systems, scalability, and failure handling — not just features
+**Mainframe & Legacy**
+`COBOL` `JCL` `DB2` `VSAM` `CICS` `BMS` `IBM z/OS`
 
----
+**Languages**
+`Python` `TypeScript` `JavaScript` `Java` `C#` `SQL` `PHP`
 
-## 🧰 Tech Stack (What I Actually Use)
+**Frameworks & Libraries**
+`FastAPI` `Flask` `Next.js` `React` `SQLAlchemy` `Pydantic` `Alembic`
 
-### 💻 Backend & Systems
+**Cloud & DevOps**
+`AWS ECS` `ECR` `S3` `CloudFront` `Secrets Manager` `Docker` `GitHub Actions` `CI/CD`
 
-*	Python (FastAPI), Java (Spring Boot), Node.js
-*	COBOL, JCL, CICS (Enterprise Systems)
-*	REST APIs, event-driven architecture
+**Databases**
+`PostgreSQL` `MySQL` `SQLite` `MongoDB` `DB2` `DynamoDB`
 
-### 🗄️ Data & Storage
-
-*	PostgreSQL, MySQL, MongoDB, DB2, DynamoDB
-*	Data modeling, query optimization
-
-### ☁️ Cloud & DevOps
-
-*	AWS (EC2, SQS, Lambda, IAM)
-*	Docker, CI/CD (GitHub Actions)
-*	Linux, z/OS, production environments
+**Tools & Methods**
+`Git` `Agile/SCRUM` `SDLC` `Power Automate` `Microsoft 365`
 
 ---
 
-## 💡 Featured Project — Agentic Pantry
+### Projects
 
-A system that thinks, not just stores.
-
-Problem:
-Dietary restrictions turn everyday cooking into a manual research task.
-
-Solution:
-A full-stack intelligent system that:
-*	Understands dietary constraints
-*	Manages pantry inventory
-*	Suggests safe, personalized recipes
-
-Tech Highlights:
-*	FastAPI backend + Flutter frontend
-*	SQLAlchemy for structured persistence
-*	AWS SQS for async processing
-*	Agentic AI for reasoning over constraints
+| Project | Stack | Description |
+|---|---|---|
+| **Cloud Kitchen** | Python · FastAPI · PostgreSQL · Docker · LLM | Full backend for a mobile pantry app — FEFO tracking, recipe recommendation engine, LLM dietary filtering with async ThreadPoolExecutor parallelism |
+| **Bakery Buddy** | TypeScript · React · Next.js · PostgreSQL · Docker | Bakery ERP — frontend API integrations, sales analytics dashboards, ESC/POS receipt & nutrition label printing, Docker Compose full-stack containerization |
+| **Reading Nook** | Python · Flask · Next.js · AWS ECS · GitHub Actions | Cloud-native bookstore app — microservices on AWS ECS Fargate behind an ALB, fully automated CI/CD pipeline, credentials secured via Secrets Manager |
+| **LCBO Fleet Management** | Python · pandas · SQLite · SwiftUI | Hackathon project for Durham Region Transit — WearScore & RouteStress metrics from GTFS + PRESTO data, constraint-aware bus rotation algorithm, native macOS dashboard |
+| **Arcade Receipt Task System** | Python · FastAPI · SQLite · OpenAI API · ESC/POS | LLM agent that parses to-do lists into gamified work sessions with streak tracking, combo scoring, and physical thermal receipt output |
+| **Portfolio Site** | HTML · CSS · JavaScript · AWS S3 · CloudFront | Static SPA with a retro Macintosh OS aesthetic — custom window manager, RAF-gated drag engine, deployed via GitHub Actions to S3 + CloudFront |
+| **Server on Demand** | Python · Docker · Wake-on-LAN · SSH | Stateless polling controller that auto-wakes a media server via WoL or shuts it down over SSH based on Jellyfin session activity |
+| **COBOL & Mainframe Systems** | COBOL · JCL · CICS · BMS · z/OS | Mainframe coursework — batch financial reporting, data validation engines, interactive CICS transaction systems with BMS terminal screens |
 
 ---
 
-## 🏗️ Real Engineering Experience
+### Certifications
 
-### 🖥️ IT Student Analyst — Durham College
-
-*	Resolved Tier 1–2 production issues across OS, hardware, and apps
-*	Worked under strict SLA environments
-*	Managed deployments across Windows/macOS systems
-
-### ⚙️ Service Manager (Previous Role)
-
-*	Increased department revenue by 70% through system/process improvements
-*	Built strong client-facing technical communication skills
+- IBM Z Xplore — Concepts Badge *(Mainframe Architecture)*
+- CCNA: Introduction to Networks *(Cisco)*
 
 ---
 
-## 🧠 Engineering Mindset
+### Languages
 
-I don’t build for demos — I build for production.
-
-*	🔍 Observability-first thinking
-*	🧱 Design for failure, not just success paths
-*	⚡ Performance and reliability > quick hacks
-*	🔁 Background in ops → naturally DevOps-oriented
-
----
-
-## 📂 Notable Projects
-*	⚡ DRT Maintenance Optimizer
-_Predictive analytics tool using Python & Pandas to model fleet wear_
-*	🔌 On-Demand Server Controller
-_Automated infrastructure tool using APIs + Wake-on-LAN_
-*	🎮 Productivity Arcade System
-_Agentic AI-powered task engine with physical output (ESC/POS integration)_
+English (Fluent) · French (Conversational) · Arabic (Native)
 
 ---
 
@@ -112,7 +61,3 @@ _Agentic AI-powered task engine with physical output (ESC/POS integration)_
 * 💼 [LinkedIn](https://www.linkedin.com/in/moussa-samer/)
 * 🌐 [Portfolio](https://samermoussa.com)
 * 📧 Email: <m.samermoussa@hotmail.com>
-
-```bash
-ssh hire-me@samer.dev
-```
